@@ -1,0 +1,6 @@
+Daftar_teman:
+1.ucok
+2.sarif
+3.jajang
+4.ujang
+5.ucup
